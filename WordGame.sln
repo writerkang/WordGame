@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGame.Domain", "WordGame.Domain\WordGame.Domain.csproj", "{F6242DB8-DD54-4911-9316-790B6CD3AC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGame.Infrastructure", "WordGame.Infrastructure\WordGame.Infrastructure.csproj", "{DCE70C76-FA5E-49F3-B1C9-331AB2240252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGame.Test", "WordGame.Test\WordGame.Test.csproj", "{892AFC4B-3C83-4E9B-90E1-4652AA33E941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6242DB8-DD54-4911-9316-790B6CD3AC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6242DB8-DD54-4911-9316-790B6CD3AC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6242DB8-DD54-4911-9316-790B6CD3AC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6242DB8-DD54-4911-9316-790B6CD3AC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE70C76-FA5E-49F3-B1C9-331AB2240252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE70C76-FA5E-49F3-B1C9-331AB2240252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE70C76-FA5E-49F3-B1C9-331AB2240252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE70C76-FA5E-49F3-B1C9-331AB2240252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892AFC4B-3C83-4E9B-90E1-4652AA33E941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892AFC4B-3C83-4E9B-90E1-4652AA33E941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892AFC4B-3C83-4E9B-90E1-4652AA33E941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892AFC4B-3C83-4E9B-90E1-4652AA33E941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
